@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Alpertaktkt111.aternos.me:53595",
+    "ip": "Alpertaktkt111.aternos.me",
     "port": 53595,
     "version": "1.21.1"
   },
